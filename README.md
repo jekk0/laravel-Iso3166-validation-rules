@@ -10,6 +10,7 @@
  * Laravel/Lumen 5.8.x (version 1.0.0)
  * Laravel/Lumen 6.0.x (version 1.1.0)
  * Laravel/Lumen 7.0.x (version 1.2.0)
+ * Laravel/Lumen 8.0.x (version 1.3.0)
 
 ### Installation
 
